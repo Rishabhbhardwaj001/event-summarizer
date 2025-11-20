@@ -322,7 +322,7 @@ Currently tested with:
 
 <div align="center">
 
-**Made with ❤️ for the NLP Community**
+
 
 [⭐ Star this repo](https://github.com/your-username/news-event-analysis) | [🐛 Report Bug](https://github.com/your-username/news-event-analysis/issues) | [✨ Request Feature](https://github.com/your-username/news-event-analysis/issues)
 
